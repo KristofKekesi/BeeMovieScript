@@ -1712,7 +1712,7 @@ BeeMovieScriptList = [
     "My brochure!",
     "There you go, little guy.",
     "I'm not scared of him.It's an allergic thing.",
-    " Put that on your resume brochure."
+    " Put that on your resume brochure.",
     "My whole face could puff up.",
     "Make it one of your special skills.",
     "Knocking someone out is also a special skill.",
@@ -1781,9 +1781,9 @@ BeeMovieScriptList = [
     "He finally gets there.",
     "He runs up the steps into the church.",
     "The wedding is on.",
-    "And he says, \"Watermelon?\","
+    "And he says, \"Watermelon?\",",
     "I thought you said Guatemalan.",
-    "Why would I marry a watermelon?"","
+    "Why would I marry a watermelon?\"",
     "Is that a bee joke?",
     "That's the kind of stuff we do.",
     "Yeah, different.",
@@ -1871,7 +1871,7 @@ BeeMovieScriptList = [
     "No.",
     "It's bread and cinnamon and frosting. They heat it up...",
     "Sit down!",
-    "\"...really hot!\","
+    "...really hot!",
     "Listen to me!",
     "We are not them! We're us.",
     "There's us and there's them!",
