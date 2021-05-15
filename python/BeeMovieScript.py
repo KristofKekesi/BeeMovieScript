@@ -2729,5 +2729,3 @@ BeeMovieScriptList = [
     "All right. Take ten, everybody. Wrap it up, guys.",
     "I had virtually no rehearsal for that.",
 ]
-
-print(BeeMovieScriptList)
