@@ -1,0 +1,19 @@
+{
+  "name": "beemoviescript",
+  "version": "1.0.2",
+  "description": "Your favourite movie's script in one place",
+  "main": "BeeMovieScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KristofKekesi/BeeMovieScript"
+  },
+  "keywords": [
+    "BeeMovie",
+    "Jazz"
+  ],
+  "author": "Kristóf Kékesi",
+  "license": "MIT"
+}
