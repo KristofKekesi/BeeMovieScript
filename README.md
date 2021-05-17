@@ -4,7 +4,7 @@ Have you ever wanted to spam your terminal with Bee Movie script or make somethi
 
 __Who wouldn't__
 
-## Variables:
+## Variables
 - Crystal: `BeeMovieScriptText`, `BeeMovieScriptList`
 - Dart: `BeeMovieScriptText`, `BeeMovieScriptList`
 - JavaScript: `BeeMovieScriptText`, `BeeMovieScriptList`
