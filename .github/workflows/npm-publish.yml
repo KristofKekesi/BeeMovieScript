@@ -15,8 +15,9 @@ jobs:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
           scope: '@KristofKekesi'
-      - working-directory: ./javascript/NPM
       - run: npm install
+        working-directory: ./javascript/NPM
       - run: npm publish
+        working-directory: ./javascript/NPM
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
