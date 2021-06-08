@@ -1,10 +1,10 @@
 {
-  "name": "beemoviescript",
-  "version": "1.0.6",
+  "name": "@kristofkekesi/beemoviescript",
+  "version": "1.0.7",
   "description": "Your favourite movie's script in one place",
   "main": "BeeMovieScript.js",
   "publishConfig": {
-	  "registry": "https://npm.pkg.github.com"
+	  "registry": "https://npm.pkg.github.com/@KristofKekesi"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
