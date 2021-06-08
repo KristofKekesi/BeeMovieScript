@@ -1,6 +1,7 @@
 # Your favourite movie's script in one place.
+# [![Node.js Package](https://github.com/KristofKekesi/BeeMovieScript/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/KristofKekesi/BeeMovieScript/actions/workflows/npm-publish.yml)
 
-Have you ever wanted to spam your terminal with Bee Movie script or make something with it?
+#### Have you ever wanted to spam your terminal with Bee Movie script or make something with it?
 
 __Who wouldn't__
 
