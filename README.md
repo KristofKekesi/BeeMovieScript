@@ -15,7 +15,9 @@ __Who wouldn't__
 
 ## JavaScript
 ### Install
-`npm i beemoviescript`
+```js
+npm install @kristofkekesi/beemoviescript@1.0.4
+```
 
 ### Variables:
 `BeeMovieScriptText`, `BeeMovieScriptList`
