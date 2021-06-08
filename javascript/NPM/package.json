@@ -1,6 +1,6 @@
 {
   "name": "@kristofkekesi/beemoviescript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Your favourite movie's script in one place",
   "main": "BeeMovieScript.js",
   "publishConfig": {
